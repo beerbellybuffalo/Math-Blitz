@@ -1,0 +1,22 @@
+{
+    "name": "MATH BLITZ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "tinkercademy-tinker-kit": "github:tinkertanker/pxt-tinkercademy-tinker-kit#v1.0.13",
+        "servo": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
